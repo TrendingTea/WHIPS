@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ A Love Letter to Wisconsin Air
+# 🛰️ A Homecoming Letter to Wisconsin Air
 ### *Why Dr. Tracey Holloway’s Lab is Our Dream Home After Our PhD Defense*
 
 [![Lineage](https://img.shields.io/badge/HERITAGE-UW--MADISON%20SAGE-c5050c?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/barronh/WHIPS)
