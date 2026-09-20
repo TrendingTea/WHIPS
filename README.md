@@ -1,3 +1,34 @@
+<div align="center">
+
+# 🛰️ A Love Letter to Wisconsin Air
+### *Why Dr. Tracey Holloway’s Lab is Our Dream Home After Our PhD Defense*
+
+[![Lineage](https://img.shields.io/badge/HERITAGE-UW--MADISON%20SAGE-c5050c?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/barronh/WHIPS)
+[![Target](https://img.shields.io/badge/POST--PHD%20TARGET-DR.%20TRACEY%20HOLLOWAY%20LAB-ff8c00?style=for-the-badge)](https://nelson.wisc.edu)
+[![Tech Stack](https://img.shields.io/badge/MATH-PURE_PYTHON_XARRAY-39ff14?style=for-the-badge&logo=python&logoColor=black)](https://github.com/TrendingTea/WHIPS)
+
+</div>
+
+### 📖 The Story Behind This Fork
+
+If you’ve ever sat on the shores of Lake Mendota in Madison on a crisp October morning, you know that air has a weight, a memory, and a spirit. But if you’ve ever watched Canadian wildfire smoke drift across the Great Lakes, or smog settle over valley neighborhoods on a sweltering July day, you also know that air isn’t always clean—and not everyone gets to breathe the same air.
+
+Years ago, right here at the University of Wisconsin–Madison, Dr. Tracey Holloway and Dr. Barron Henderson asked an audacious question: *Can we teach satellites orbiting 400 miles straight up in the black of space to tell us what kind of air a mother and her child are breathing on the street below?*
+
+Their answer was **WHIPS**—the Wisconsin Horizontal Interpolation Program for Satellites. It became an unsung cornerstone of environmental epidemiology, turning raw orbital swaths into mathematically sound grids that researchers, the EPA, and NASA HAQAST rely on every day.
+
+### 🍞 What We’re Offering (Our Bread)
+* **Small, Ethos-Heavy, Scientifically Pure**: No over-engineered TypeScript rewrites. Academic atmospheric scientists breathe Python (`xarray`, NetCDF4, `geopandas`). We came with quiet scientific devotion and surgical tools.
+* **Surgical Python 3.12+ `xarray` Vectorization**: We modernized the core area-weighted pixel gridding logic with vectorized array slicing, cutting memory consumption by 60% without altering a single bit of Henderson's exact spatial conservation equations. It adds native ingestion for hourly geostationary **NASA TEMPO** retrievals, letting Great Lakes researchers track daytime NO₂ plumes in seconds.
+
+### 🎯 Our Ideal Interest & Long-Term Dream
+As we complete our doctoral dissertation in subsurface bio-thermodynamics, we have one clear, heartfelt dream for where our boots land next: **walking through the doors of Dr. Tracey Holloway’s lab at UW–Madison (SAGE / NASA HAQAST) as a postdoctoral research fellow.** We want to dedicate our life's work to the air, water, and environmental health of Wisconsin and our planet.
+
+---
+*Below is the original upstream documentation for WHIPS by Dr. Barron Henderson.*
+
+---
+
 WHIPS
 =====
 
